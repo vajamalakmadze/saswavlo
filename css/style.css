@@ -1,0 +1,45 @@
+.h2 {
+	display: inline-block;
+	margin-left: 30px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.logo {
+	width: 100px;
+	clear: both;
+	text-align: center;
+	vertical-align: middle;
+}
+.nav1 {
+	background-color: green;
+	text-align: center;
+	vertical-align: middle;
+}
+.section-1 {
+	background-color: yellow;
+	float: left;
+	width: 500px;
+	margin: 10px;
+}
+.section-2 {
+	background-color: yellow;
+	float: left;
+	width: 500px;
+	margin: 10px ;
+}
+.section-image1 {
+	width: 200px;
+	float: right;
+
+}
+.section-image2 {
+	width: 200px;
+	float: left;
+}
+.section-saerto {
+	display: inline-block;
+	background-color: red;
+	vertical-align: center; 
+
+}
