@@ -19,13 +19,13 @@
 .section-1 {
 	background-color: yellow;
 	float: left;
-	width: 500px;
+	width: 650px;
 	margin: 10px;
 }
 .section-2 {
 	background-color: yellow;
 	float: left;
-	width: 500px;
+	width: 650px;
 	margin: 10px ;
 }
 .section-image1 {
@@ -42,4 +42,17 @@
 	background-color: red;
 	vertical-align: center; 
 
+}
+.feri {
+	color: red;
+	background-color: #F5F5F5;
+}
+.feri1 {
+	background-color: #F5F5F5;
+}
+.feri2 {
+	background-color: #F5F5F5;
+}
+.feri3 {
+	background-color: #F5F5F5;
 }
